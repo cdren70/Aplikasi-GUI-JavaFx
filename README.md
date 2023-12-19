@@ -1,2 +1,2 @@
 # Aplikasi-GUI-JavaFx
-Tema Keuanga // Membuat Aplikasi bernama CumanKonser dimana aplikasi pemesenan tiket konser
+Tema Keuangan // Membuat Aplikasi bernama CumanKonser dimana aplikasi pemesenan tiket konser
